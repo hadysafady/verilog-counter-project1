@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+==== Coverage Report ====
+Clock cycles with EN=1     : 16
+Clock cycles with EN=0     : 5
+Reset activations observed : 3
+$finish called at time : 210 ns : File "C:/Users/hadys/Desktop/verilog/chatgpt/project_1/project_1.srcs/sim_1/new/TB_task1.v" Line 38
